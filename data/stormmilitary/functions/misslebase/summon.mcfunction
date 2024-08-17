@@ -1,0 +1,1 @@
+execute at @e[tag=STSummon] run summon armor_stand ~ ~ ~ {Invisible:1b,NoBasePlate:1b,Small:1b,Invulnerable:1b,NoAI:1b,NoGravity:1b,Silent:1b,Tags:["Misslelauncher"]}
